@@ -1,0 +1,23 @@
+Suivi des modifications:
+
+3/4/2018
+Toutes les missions ont été accomplies.
+Reste : 
+Phase de relecture du code
+Mise en forme des palettes de couleurs des graphiques selon PPT
+Export Graphiques
+Faire PPT
+Faire fichier Readme
+
+4/4/2018
+Reste :
+Faire PPT
+Faire fichier Readme
+
+5/4/2018
+Reste :
+Commenter PPT
+Trouver les valeurs manquantes vues par Olivier
+
+6/4/2018
+Reste relecture
